@@ -1,0 +1,15 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;  /* Adicionando padding: 0; para evitar espaçamentos indesejados */
+}
+
+body {
+    background-color:#e91010; /* Cor de fundo do corpo */
+}
+css:
+main {
+    width: 900px ; /* Largura */
+    height: 700px ; /* Altura */
+    background-color: hsl(83, 58%, 71%); /* Cor de fundo do main */
+    margin: 0 auto; /* Centraliza na horizontal */
+}
